@@ -1,0 +1,2 @@
+Ya el archivo esta descomprumido en el proyecto, para sus efectos, ya las paginas de cada uno se encuentran creadas
+nada mas realizar los cambios respectivos.
