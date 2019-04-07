@@ -21,30 +21,30 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Inicio
+                        <a class="nav-link" href="estebanHome.php">Inicio
                             <span class="sr-only">(current)</span>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">San Jose</a>
+                        <a class="nav-link" href="estebanSanJose.php">San Jose</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Alajuela</a>
+                        <a class="nav-link" href="kennethAlajuela.php">Alajuela</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Cartago</a>
+                        <a class="nav-link" href="cinthyaCartago.php">Cartago</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Heredia</a>
+                        <a class="nav-link" href="cinthyaHeredia.php">Heredia</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Guanacaste</a>
+                        <a class="nav-link" href="alexGuanacaste.php">Guanacaste</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Puntarenas</a>
+                        <a class="nav-link" href="kennethPuntarenas.php">Puntarenas</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Limón</a>
+                        <a class="nav-link" href="alexLimon.php">Limón</a>
                     </li>
                 </ul>
             </div>
