@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Alajuela</title>
+    <title>Guanacaste alex</title>
     <?php include("header.php")?>
 </head>
 <body>
